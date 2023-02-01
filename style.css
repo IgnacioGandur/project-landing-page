@@ -38,7 +38,7 @@ body {
 .header-bar-title {
     font-weight: bold;
     font-size: 24px;
-    color: white;
+    color: #f9faf8;
 }
 .header-bar-ul {
     display: flex;
@@ -86,6 +86,7 @@ body {
     color: #f9faf8;
     margin: 0;
     margin-bottom: 5px;
+    font-size: 18px;
 }
 .hero-sign-up-button {
     font-size: 18px;
